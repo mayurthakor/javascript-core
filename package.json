@@ -1,0 +1,14 @@
+{
+  "name": "core-javascript",
+  "version": "1.0.0",
+  "description": "Demo prject to understand core concepts of Javascript",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayur Thakor",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-connect": "^5.0.0"
+  }
+}
